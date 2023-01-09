@@ -3,11 +3,18 @@
 Repo for bulding gradient boosted machines from scratch. We take
 SKlearn decision trees for granted.
 
+## Parts
+
+```
+model.py
+train.py
+tests.py
+data.py
+```
+
 ## Data
 
-```bash
-sh data_dl.sh
-```
+Use SKlearn breast cancer classfication set for testing
 
 ## Sources
 
