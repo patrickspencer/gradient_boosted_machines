@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from data import DataLoader
+from lib.data import DataLoader
 from model import GradientBoostedMachine
 
 

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from train import train
-from data import DataLoader
+from lib.data import DataLoader
 from model import GradientBoostedMachine
 
 
